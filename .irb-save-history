@@ -1,0 +1,7 @@
+ 
+User
+puts User
+first_user = User.first
+first_user
+first_user.microposts
+exit
